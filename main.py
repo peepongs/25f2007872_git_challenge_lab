@@ -2,7 +2,6 @@
 def Sum(a, b):
     #write the code here
 
-
 def Difference (a, b):
     #write the code here. Code should be for absolute difference
 
@@ -17,4 +16,3 @@ def Quotient (a, b):
 
 def Power (a, b):
     # write the code here to return a to the power b.
-    
